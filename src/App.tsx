@@ -1,5 +1,9 @@
+import Landing from "./Landing";
+
 function App() {
-  return <h1>App</h1>;
+  return (
+    <Landing />
+  )
 }
 
 export default App;
